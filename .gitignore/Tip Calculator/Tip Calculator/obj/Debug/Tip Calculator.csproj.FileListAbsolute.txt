@@ -1,0 +1,27 @@
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csprojResolveAssemblyReference.cache
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csproj.GenerateResource.Cache
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\rodol\Desktop\POS 409\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\obj\Debug\Tip Calculator.pdb
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\obj\Debug\Tip Calculator.csprojResolveAssemblyReference.cache
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\rodol\Desktop\POS 409\Tip Calculator - Copy\Tip Calculator\obj\Debug\Tip Calculator.csproj.GenerateResource.Cache
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.pdb
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csprojResolveAssemblyReference.cache
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\rodol\Desktop\POS 409\WK 1\Tip Calculator\Tip Calculator\obj\Debug\Tip Calculator.csproj.GenerateResource.Cache
